@@ -1,0 +1,21 @@
+.wrapper {
+  height: 100vh;
+  min-width: fit-content;
+}
+
+.box_left {
+  background-color: var(--rgba-primary-1);
+}
+
+.logo {
+  height: 62px;
+  width: 100px;
+  margin: auto;
+  align-self: flex-start;
+}
+
+.image-login {
+  height: 200px;
+  margin: auto;
+  align-self: flex-end;
+}
